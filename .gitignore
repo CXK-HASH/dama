@@ -1,0 +1,21 @@
+# 运行时产物
+.sess/
+.cprofile/
+*.log
+.srv.out
+.srv.err
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 测试临时文件
+.o*.html
+.ed.html
+.pc.html
+.lg.html
+.ck*.txt
+a.txt
+x.txt
+testdir_zz/
